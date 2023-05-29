@@ -2,7 +2,7 @@
 name: Oleg Nenashev
 title: Organizer
 social:
-  email: -
+  email: 
   linkedin: https://www.linkedin.com/in/onenashev/?originalSubdomain=ch
 ---
 
