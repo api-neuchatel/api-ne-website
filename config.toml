@@ -32,5 +32,17 @@ enableRobotsTXT = true
   recent_posts_number = 5
 
 [[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/company/api-neuchatel"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@associationapi1442"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/AssociationAPI/"
+
+[[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/API_Neuchatel"
