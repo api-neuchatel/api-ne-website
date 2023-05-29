@@ -11,8 +11,8 @@ enableRobotsTXT = true
 
 [languages]
   [languages.fr]
-    title = "API Neuchâtel Fr"
-    weight = 2
+    title = "API Neuchâtel"
+    weight = 1
     contentDir = "content/fr"
 
 [sitemap]

@@ -1,6 +1,13 @@
-# La vision de l’association
+---
+title: Notre Manifeste
+menu:
+- main
+- footer
+---
 
 L’association des professionnels de l’informatique (API) a été fondée en mars 2016, à La Chaux-de-Fonds (NE), en Suisse.
+
+## La vision de l’association
 
 L’esprit de l’API s’articule autour de ses membres et des différents événements et actions que nous entreprenons tout au long de l’année.
 Nous souhaitons être les déclencheurs de votre première poignée de main avec 

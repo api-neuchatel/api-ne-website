@@ -3,48 +3,10 @@ title: Devenir Membre
 author: admin
 type: page
 date: 2016-06-05T13:07:55+00:00
-slide_template:
-  - default
-replicate_main_body_bg_pattern_img:
-  - default
-replicate_main_body_bg_shine_img:
-  - default
-replicate_top_header_left_area:
-  - default
-replicate_top_header_right_area:
-  - default
-replicate_header_top_bar_bg_pattern:
-  - default
-replicate_header_top_bar_border_top_width:
-  - default
-replicate_header_top_bar_border_bottom_width:
-  - default
-replicate_header_top_bar_mobile_check:
-  - default
-replicate_fi_slider:
-  - none
-replicate_fi_position:
-  - default
-replicate_fi_bg_pattern_img:
-  - default
-replicate_fi_bg_overlay_img:
-  - default
-replicate_fi_bg_shine_img:
-  - default
-replicate_fi_image_height:
-  - default
-replicate_fi_autoplay:
-  - default
-replicate_fi_animatein:
-  - default
-replicate_fi_animateout:
-  - default
-replicate_header_layout_position:
-  - default
-replicate_extra_code_position:
-  - under_main_nav
-replicate_header_vertical_middle:
-  - default
+menu:
+- main
+- footer
+
 replicate_extra_code_within_header:
   - |
     [fullwidth textcolor="#FFFFFF" innershadow="1" bgcolor="" bgtransparency="" bgimage="" bgpattern="" top="50" bottom="40"]
