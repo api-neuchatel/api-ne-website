@@ -188,28 +188,6 @@ Nous ambitionnons de :
 
 \[text fontsize=&#8221;28&#8243;\]\[center\]**CORE TEAM**\[/center\]\[/text\]
 
-[column type=&#8221;one_third&#8221;]
-
-[team\_member bgcolor=&#8221;#222&#8243; namecolor=&#8221;#fff&#8221; photo=&#8221;https://api-ne.ch/wp-content/uploads/2016/06/IMG\_0012-3.jpg&#8221; name=&#8221;Django Brachetto&#8221; designation=&#8221;Président&#8221; soc\_ld=&#8221;https://www.linkedin.com/in/django-brachetto-50351695&#8243; soc\_ml=&#8221;django.brachetto@gmail.com&#8221;]Réel passionné de l’informatique et des nouvelles technologies, j’ai achevé la formation de Technicien ES en informatique en 2010. J’évolue aujourd’hui dans les domaines des systèmes et réseaux informatiques. Les infrastructures IT complexes, les architectures virtuelles, les environnements de stockage et les réseaux LAN/ WAN me parlent particulièrement. Lorsque l’occasion m’en est donnée, je partage volontiers mon expérience et mes connaissances de ce domaine passionnant et en constante innovation.
-
-<span style="color: #ffffff;"><a style="color: #ffffff;" href="https://twitter.com/search?q=%23Running" target="_blank" rel="noopener">#Running</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23Music" target="_blank" rel="noopener">#Music</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23SF" target="_blank" rel="noopener">#SF</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23HoldTheDoor" target="_blank" rel="noopener">#HoldTheDoor</a></span>[/team_member]
-
-\[/column\]\[column type=&#8221;one_third&#8221;\]
-
-[team\_member bgcolor=&#8221;#222&#8243; namecolor=&#8221;#fff&#8221; photo=&#8221;https://api-ne.ch/wp-content/uploads/2016/06/IMG\_0012-6.jpg&#8221; name=&#8221;Mickaël Morel&#8221; designation=&#8221;Communication&#8221; soc\_ld=&#8221;https://www.linkedin.com/in/mickaël-morel-6a48725b&#8221; soc\_ml=&#8221;mmo@pentagon-system.ch&#8221;]Captivé par les nouvelles tendances du WEB, je travaille essentiellement dans le développement de solution logiciel centralisé. Cofondateur de l’entreprise Pentagon System Sàrl et technicien ES en informatique, j’aime à penser qu’il y a un côté artistique dans mon métier.
-
-<span style="color: #ffffff;"><a style="color: #ffffff;" href="https://twitter.com/search?q=%23Design" target="_blank" rel="noopener">#Design</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23Photography" target="_blank" rel="noopener">#Photography</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23S02E07" target="_blank" rel="noopener">#S02E07</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23DarkSide" target="_blank" rel="noopener">#DarkSide</a></span>[/team_member]
-
-\[/column\]\[column type=&#8221;one_third&#8221;\]
-
-[team\_member bgcolor=&#8221;#222&#8243; namecolor=&#8221;#fff&#8221; photo=&#8221;https://api-ne.ch/wp-content/uploads/2021/09/oleg-nenashev.jpg&#8221; name=&#8221;Oleg Nenashev&#8221; designation=&#8221;Organizer&#8221; soc\_ld=&#8221;https://www.linkedin.com/in/onenashev/?originalSubdomain=ch&#8221; soc\_ml=&#8221;-&#8220;]Oleg is a community builder, core maintainer and board member in the Jenkins community. He is also a TOC member and community ambassador in the Continuous Delivery Foundation. Oleg is based in Neuchâtel, Switzerland. Since 2008 he has worked in the areas of automation infrastructure and frameworks for mixed software-hardware projects. Oleg writes code, maintains Jenkins, mentors contributors, and organizes community events and Google Summer of Code in the project. He is a big fan of open hardware and embedded. He has a PhD degree in hardware design and volunteers in the Free and Open Source Silicon Foundation.[/team\_member]  
-[team\_member bgcolor=&#8221;#222&#8243; namecolor=&#8221;#fff&#8221; photo=&#8221;https://api-ne.ch/wp-content/uploads/2016/06/IMG\_0012-5.jpg&#8221; name=&#8221;Fabien Gaille&#8221; designation=&#8221;Vice-président&#8221; soc\_ld=&#8221;https://www.linkedin.com/in/fabien-gaille-85175687&#8243; soc\_ml=&#8221;fabien.gaille@gmail.com&#8221;]«&nbsp;IT Administrator&nbsp;» comme titre officiel, je fais partie d’une équipe informatique multinationale et dirigée depuis l’Allemagne. Responsable du parc réseau, serveur et client du site suisse, je gère également la téléphonie sur IP, Skype for Business, le réseau WiFi et des projets d’envergures sur le plan international.
-
-<span style="color: #ffffff;"><a style="color: #ffffff;" href="https://twitter.com/search?q=%23Music" target="_blank" rel="noopener">#Music</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23Tennis" target="_blank" rel="noopener">#Tennis</a> <a style="color: #ffffff;" href="https://twitter.com/search?q=%23NewTech" target="_blank" rel="noopener">#NewTech</a></span>[/team_member]  
-[/column]
-
-[/fullwidth]
-
 [raindrops bgcolor=&#8221;#ffffff&#8221; flip=&#8221;1&#8243;]  
 [fullwidth top=&#8221;82&#8243; bottom=&#8221;65&#8243; scrolltype=&#8221;scroll&#8221; bgpattern=&#8221;7&#8243; bgparticles=&#8221;1&#8243; bgcolor=&#8221;accent&#8221; bgtransparency=&#8221;65&#8243; bgimage=&#8221;https://api-ne.ch/wp-content/uploads/2017/08/niagara-218591_1920.jpg&#8221;]  
 [column type=&#8221;three_fourth&#8221;]  
