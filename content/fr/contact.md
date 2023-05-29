@@ -3,9 +3,6 @@ title: Contact
 author: admin
 type: page
 date: 2016-06-05T13:09:23+00:00
-menu:
-- main
-- footer
 ---
 
 

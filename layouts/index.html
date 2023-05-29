@@ -1,11 +1,16 @@
 {{define "main"}}
+<div class="flex-l mt2 mw8 center">
+  <article class="center cf pv5 ph3 ph4-ns mw7">
+  
   {{ $blocks := .Params.blocks }}
   {{ range $blocks }}
     {{ $file := (printf "%s%s%s" "blocks/" .block ".html" ) }}
     {{ partial $file . }}
   {{ end }}
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+  <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
     {{ .Content }}
+  </div>
   </article>
+</div>
 {{ end }}

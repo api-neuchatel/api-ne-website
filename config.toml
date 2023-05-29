@@ -46,3 +46,25 @@ url = "https://www.facebook.com/AssociationAPI/"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/API_Neuchatel"
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Manifeste'
+  pageRef = '/manifeste'
+  weight = 20
+[[menu.main]]
+  name = 'Evenements'
+  pageRef = '/evenements'
+  weight = 30
+[[menu.main]]
+  name = 'Communauté'
+  pageRef = '/community'
+  weight = 40
+[[menu.main]]
+  name = 'Contacts'
+  pageRef = '/contact'
+  weight = 50

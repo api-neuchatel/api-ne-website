@@ -1,8 +1,5 @@
 ---
 title: Notre Manifeste
-menu:
-- main
-- footer
 ---
 
 L’association des professionnels de l’informatique (API) a été fondée en mars 2016, à La Chaux-de-Fonds (NE), en Suisse.

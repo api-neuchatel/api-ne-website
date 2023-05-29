@@ -1,11 +1,8 @@
 ---
-title: L’association
+title: API Neuchâtel. Association des professionnels de l'informatique
 author: admin
 type: page
 date: 2016-02-12T08:35:38+00:00
-menu:
-- main
-- footer
 blocks:
 - block: hero
   heading: "L’association des professionnels de l’informatique (API)"

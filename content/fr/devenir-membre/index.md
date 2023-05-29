@@ -3,9 +3,6 @@ title: Devenir Membre
 author: admin
 type: page
 date: 2016-06-05T13:07:55+00:00
-menu:
-- main
-- footer
 
 replicate_extra_code_within_header:
   - |
