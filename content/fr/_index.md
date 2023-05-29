@@ -15,7 +15,7 @@ blocks:
     * Nous soutenons activement les formations et les futurs professionnels de notre secteur. Nous participons, en collaboration avec les différentes entités de formation régionales, à la promotion de la formation aux métiers de informatique et permettons aux étudiants des diverses filières liées de rejoindre gratuitement notre association.
 
 - block: hero
-  heading: "Les buts de l'association** en bref..."
+  heading: "Les buts de l'association en bref..."
 - block: hero
   heading: Échanger
   subheading: >
@@ -69,6 +69,11 @@ blocks:
     size: large
 - block: hero
   heading: "La vision de l’association"
+  buttons:
+  - text: Notre manifeste
+    url: "./manifeste"
+    style: primary
+    size: large
 ---
 
 [fullwidth bgcolor=&#8221;accent&#8221;&nbsp;top=&#8221;35&#8243; bottom=&#8221;35&#8243;]
@@ -183,66 +188,6 @@ L&#8217;association &#8220;API&#8221; sert de plateforme de transport et d&#8217
 [/fullwidth]  
 [fullwidth top=&#8221;80&#8243; bottom=&#8221;120&#8243;]
 
-[column type=&#8221;one_half&#8221;]  
-[fancybox title=&#8221;&#8221; shadow=&#8221;2&#8243; line=&#8221;left&#8221; button=&#8221;&#8221; bggradstart=&#8221;#fafafa&#8221; bggradend=&#8221;#FFFFFF&#8221;]  
-<img decoding="async" loading="lazy" class="alignnone size-medium wp-image-2167" src="https://api-ne.ch/wp-content/uploads/2016/06/logo-api-standard-PNG-1-300x57.png" alt="logo-api-standard-PNG" width="300" height="57" />  
-[separator marginTop=&#8221;10&#8243;]  
-L’association des professionnels de l’informatique (API) a été fondée en mars 2016, à La Chaux-de-Fonds (NE), en Suisse.[/fancybox]  
-[separator margintop=&#8221;25&#8243;]  
-L’esprit de l’API s’articule autour de ses membres et des différents événements et actions que nous entreprenons tout au long de l’année.&nbsp;Nous souhaitons être les déclencheurs de votre première poignée de main avec un panel de professionnels et d’étudiants partageant votre passion et votre métier.  
-[separator margintop=&#8221;15&#8243;]  
-Nous désirons cultiver votre intérêt marqué pour l’informatique et les nouvelles technologies, par l’intermédiaire des opportunités que nous mettons à votre disposition et pourquoi pas, en vous donnant aussi l’occasion de partager votre savoir.  
-[separator margintop=&#8221;15&#8243;]  
-Vous êtes cordialement invité à prendre part à ce projet et nous nous réjouissons déjà de vous rencontrer.
-
-[fancylist]  
-\[fancyitem iconshadow=&#8221;&#8221; noborder=&#8221;&#8221; padding=&#8221;10&#8243; bgcolor=&#8221;accent&#8221; bgovercolor=&#8221;primary&#8221; bgtransparency=&#8221;0&#8243; iconcolor=&#8221;#ffffff&#8221; iconovercolor=&#8221;#ffffff&#8221; titlecolor=&#8221;#fff&#8221; titleovercolor=&#8221;#fff&#8221; desccolor=&#8221;#efefef&#8221; descovercolor=&#8221;#fff&#8221; link=&#8221;https://api-ne.ch/devenir-membre/&#8221; title=&#8221;Devenir membre&#8221; desc=&#8221;Inscriptions&#8221; icon=&#8221;fa-users&#8221; textanimate=&#8221;1&#8243; noborder=&#8221;bottom&#8221; align=&#8221;left&#8221;\]\[/fancyitem\]
-
-\[fancyitem iconshadow=&#8221;&#8221; noborder=&#8221;&#8221; padding=&#8221;10&#8243; bgcolor=&#8221;#666&#8243; bgovercolor=&#8221;primary&#8221; bgtransparency=&#8221;0&#8243; iconcolor=&#8221;#ffffff&#8221; iconovercolor=&#8221;#ffffff&#8221; titlecolor=&#8221;#fff&#8221; titleovercolor=&#8221;#fff&#8221; desccolor=&#8221;#efefef&#8221; descovercolor=&#8221;#fff&#8221; link=&#8221;https://api-ne.ch/wp-content/uploads/2017/04/StatutsAPI.pdf&#8221; title=&#8221;Plus d&#8217;informations?&#8221; desc=&#8221;Lire les statuts de l&#8217;association&#8221; icon=&#8221;fa-file-pdf-o&#8221; textanimate=&#8221;1&#8243; noborder=&#8221;bottom&#8221; align=&#8221;left&#8221;\]\[/fancyitem\]
-
-[/fancylist]  
-[/column]  
-[column type=&#8221;one_half&#8221; last=&#8221;1&#8243;]  
-[tabs style=&#8221;1&#8243; skin=&#8221;1&#8243;]
-
-[tab title=&#8221;Contexte&#8221; icon=&#8221;fa-map-marker&#8221;]  
-[separator margintop=&#8221;5&#8243;]  
-[title fontsize=&#8221;16&#8243; &nbsp;google_font=&#8221;Raleway:300,700&#8243;]Le **contexte**[/title]  
-[separator margintop=&#8221;10&#8243;]  
-De par la qualité des formations dispensées sur son territoire, le canton de **Neuchâtel** possède un capital de compétences et de connaissances important dans les domaines de l&#8217;informatique et des télécommunications. Mais jusqu’ici, il ne disposait d’aucune entité rassemblant les actuels et futurs professionnels du secteur autour de buts communs afin de soutenir leur domaine et les formations qui en découlent.
-
-Ce constat établi par plusieurs professionnels de l’informatique a fait naitre l’idée de la création d’une dynamique nouvelle, permettant à ces professionnels d’échanger autour des métiers de l’informatique, d’acquérir des connaissances à la pointe de l’innovation et de prendre plus facilement contact les uns avec les autres, tout en améliorant la visibilité, le poids et la portabilité de leur secteur dans le tissu professionnel régional.  
-[/tab]  
-[tab title=&#8221;Philosophie&#8221; icon=&#8221;fa-sliders&#8221;]  
-[separator margintop=&#8221;5&#8243;]  
-[title fontsize=&#8221;16&#8243; &nbsp;google_font=&#8221;Raleway:300,700&#8243;]Notre**&nbsp;philosophie**[/title]  
-[separator margintop=&#8221;10&#8243;]  
-< Renforcer ce domaine professionnel en perpétuelle évolution nécessite qu&#8217;on le soutienne et que l&#8217;on soit nous-même acteur de cette constante innovation. />  
-[separator margintop=&#8221;15&#8243;]  
-C&#8217;est autour de cette philosophie, marquée par la volonté de permettre au secteur informatique d&#8217;innover, de croître et de perdurer dans le canton de Neuchâtel et au-delà, que s&#8217;inscrivent nos valeurs.
-
-Par ailleurs, nous sommes convaincus qu&#8217;offrir à des professionnels du secteur la possibilité d&#8217;accéder à différentes activités en lien direct avec celui-ci et leur permettre de se sensibiliser aux dernières technologies au travers d&#8217;élocutions de firmes et d&#8217;intervenants reconnus, tout en promouvant la formation et en collaborant bilatéralement avec les institutions qui les offrent sur l&#8217;état et les besoins de l&#8217;industrie, sera la combinaison gagnante qui renforcera ce secteur passionnant et en constante évolution.  
-[/tab]  
-[tab title=&#8221;Objectifs&#8221; icon=&#8221;fa-bullseye&#8221;]  
-[separator margintop=&#8221;5&#8243;]  
-[title fontsize=&#8221;16&#8243; &nbsp;google_font=&#8221;Raleway:300,700&#8243;]Nos **objectifs**[/title]  
-[separator margintop=&#8221;10&#8243;]  
-Valoriser le secteur et les formations informatiques au travers des divers événements organisés par l’association et créer de nouvelles interactions professionnelles, ne sont que les prémices d’un changement plus important. Ce changement, c’est la construction d’un pont durable et solide entre professionnels, étudiants et institutions de formation, soutenant de bout en bout le secteur informatique et permettant à celui-ci d’être en phase avec l’innovation qui le caractérise.  
-[separator margintop=&#8221;15&#8243;]  
-Nous ambitionnons de :  
-[separator margintop=&#8221;15&#8243;]  
-[checklist icon=&#8221;check&#8221; bgcolor=&#8221;accent&#8221; iconcolor=&#8221;#ffffff&#8221;]  
-[list\_item]Réunir les professionnels de l&#8217;informatique de la région et de ses alentours[/list\_item]  
-[list\_item]Offrir une plateforme d&#8217;échange et de discussion entre ces différents acteurs[/list\_item]  
-[list\_item]Valoriser et promouvoir les formations en informatique[/list\_item]  
-[list\_item]Contribuer à l&#8217;harmonisation de son plan de formation avec les attentes de l&#8217;industrie[/list\_item]  
-[list\_item]Mettre en réseau les entreprises et les étudiants pour créer un pool de place de stages, de travaux de diplômes et de laboratoires[/list\_item]  
-[list\_item]Permettre aux détenteurs d&#8217;idées et de projets liés à l&#8217;informatique de les présenter à des professionnels du secteur et de trouver des collaborateurs pour les réaliser.[/list\_item]  
-[/checklist]  
-[/tab]  
-[/tabs]  
-[/column]  
-[/fullwidth]
 
 [fullwidth textcolor=&#8221;#FFFFFF&#8221; bgcolor=&#8221;#444444&#8243; bgtransparency=&#8221;50&#8243; bgpattern=&#8221;7&#8243; bgvideo=&#8221;https://api-ne.ch/wp-content/uploads/2016/03/ultimax_underwater.mp4&#8243; top=&#8221;70&#8243; bottom=&#8221;70&#8243;]  
 [title align=&#8221;right&#8221; size=&#8221;2&#8243; textcolor=&#8221;#fff&#8221; fontsize=&#8221;42&#8243; google_font=&#8221;&#8221; fontfamily=&#8221;Raleway&#8221; lineheight=&#8221;40&#8243; fontweight=&#8221;300&#8243; style=&#8221;none&#8221;]  
@@ -251,19 +196,3 @@ Nous ambitionnons de :
 
 [fullwidth top=&#8221;80&#8243; bottom=&#8221;80&#8243; bordertop=&#8221;1&#8243; tbcolor=&#8221;#efefef&#8221; bgcolor=&#8221;#fff&#8221;&nbsp;textalign=&#8221;center&#8221;]
 
-\[text fontsize=&#8221;28&#8243;\]\[center\]**CORE TEAM**\[/center\]\[/text\]
-
-[raindrops bgcolor=&#8221;#ffffff&#8221; flip=&#8221;1&#8243;]  
-[fullwidth top=&#8221;82&#8243; bottom=&#8221;65&#8243; scrolltype=&#8221;scroll&#8221; bgpattern=&#8221;7&#8243; bgparticles=&#8221;1&#8243; bgcolor=&#8221;accent&#8221; bgtransparency=&#8221;65&#8243; bgimage=&#8221;https://api-ne.ch/wp-content/uploads/2017/08/niagara-218591_1920.jpg&#8221;]  
-[column type=&#8221;three_fourth&#8221;]  
-[separator marginTop=&#8221;5&#8243;]  
-[text google_font=&#8221;&#8221; fontfamily=&#8221;Raleway&#8221; fontweight=&#8221;300&#8243; textshadow=&#8221;&#8221; fontsize=&#8221;32&#8243; lineheight=&#8221;38&#8243; color=&#8221;#fff&#8221;]Soif de **connaissances?**[/text]
-
-[separator marginTop=&#8221;5&#8243;]  
-[text google_font=&#8221;&#8221; fontfamily=&#8221;Raleway&#8221; fontweight=&#8221;&#8221; textshadow=&#8221;&#8221; fontsize=&#8221;22&#8243; lineheight=&#8221;32&#8243; color=&#8221;#fff&#8221;]Rejoignez l&#8217;association dès maintenant![/text]  
-[/column]  
-[column type=&#8221;one_fourth&#8221; last=&#8221;1&#8243; align=&#8221;right&#8221;]  
-[separator margintop=&#8221;13&#8243;]  
-[button link=&#8221;https://api-ne.ch/devenir-membre/&#8221; size=&#8221;xlarge&#8221; shape=&#8221;round&#8221; hovereffect=&#8221;bounce-to-right&#8221; bgcolor=&#8221;&#8221; bgovercolor=&#8221;#fff&#8221; bgtransparency=&#8221;30&#8243; bordertransparency=&#8221;80&#8243; textcolor=&#8221;#FFFFFF&#8221; textovercolor=&#8221;#FFFFFF&#8221; textshadow=&#8221;&#8221; fontweight=&#8221;300&#8243; fontfamily=&#8221;Raleway&#8221; border=&#8221;2&#8243; bordercolor=&#8221;#fff&#8221; borderovercolor=&#8221;&#8221; bggradstart=&#8221;&#8221; bggradend=&#8221;&#8221; icon=&#8221;fa-users&#8221; iconposition=&#8221;&#8221; target=&#8221;_blank&#8221;]**Inscription**[/button]  
-[/column]  
-[/fullwidth]
