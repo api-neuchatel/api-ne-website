@@ -1,6 +1,6 @@
 ---
-name: Oleg Nenashev
-title: Organizer
+title: Oleg Nenashev
+role: Organizer
 social:
   email: 
   linkedin: https://www.linkedin.com/in/onenashev/?originalSubdomain=ch

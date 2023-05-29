@@ -1,6 +1,6 @@
 ---
-name: Django Brachetto
-title: President
+title: Django Brachetto
+role: President
 social:
   email: django.brachetto@gmail.com
   linkedin: https://www.linkedin.com/in/django-brachetto-50351695
