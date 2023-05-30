@@ -6,10 +6,9 @@ social:
   linkedin: https://www.linkedin.com/in/micka%C3%ABl-morel-6a48725b
 ---
 
-Oleg is a community builder, core maintainer and board member in the Jenkins community. 
-He is also a TOC member and community ambassador in the Continuous Delivery Foundation. 
-Oleg is based in Neuchâtel, Switzerland.
-Since 2008 he has worked in the areas of automation infrastructure and frameworks for mixed software-hardware projects.
-Oleg writes code, maintains Jenkins, mentors contributors, and organizes community events and Google Summer of Code in the project.
-He is a big fan of open hardware and embedded.
-He has a PhD degree in electronics design and volunteers in the Free and Open Source Silicon Foundation.
+Captivé par les nouvelles tendances du WEB, je travaille essentiellement
+dans le développement de solution logiciel centralisé.
+Cofondateur de l’entreprise Pentagon System Sàrl et technicien ES en informatique,
+j’aime à penser qu’il y a un côté artistique dans mon métier.
+
+#Design #Photography #S02E07 #DarkSide
