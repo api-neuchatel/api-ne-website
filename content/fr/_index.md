@@ -73,7 +73,8 @@ blocks:
 
 ![API Neuchâtel Logo](images/logo/logo-wide.png)
 
-**L’association des professionnels** de l’informatique (API) soutient le secteur informatique dans le canton de Neuchâtel et au-delà.
+**L’association des professionnels de l’informatique (API)**
+soutient le secteur informatique dans le canton de Neuchâtel et au-delà.
   
 Nous permettons aux actuels et futurs professionnels de l’informatique
 de se rencontrer dans un cadre convivial,
