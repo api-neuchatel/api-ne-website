@@ -2,7 +2,7 @@
 title: Centre de Données Romand – CDRom
 author: admin
 type: event
-date: 2018-10-08T14:56:40+00:00
+date: 2016-10-29
 aliases:
 - /evenements/cdrom
 ---
@@ -14,7 +14,7 @@ Que vous soyez féru de hardware, professionnel aguerri ou simplement curieux, l
 Hébergeant des infrastructures du domaine bancaire, des assurances ou encore des entreprises PME et alliant technologie et écologie,
 CDROM propose un panel de prestations régies par le droit suisse et garantissant une confidentialité absolue à leurs clients.
 
-Si vous n’êtes pas membre de l’association, merci de vous [enregistrer][1]avant de vous inscrire à l’évènement. Nous vous rappelons également que les places sont limitées!
+Si vous n’êtes pas membre de l’association, merci de vous [enregistrer][1] avant de vous inscrire à l’évènement. Nous vous rappelons également que les places sont limitées!
 **La présentation d&#8217;une pièce d&#8217;identité sera exigée.**
 
 Selon le nombre de personnes inscrites, nous organiserons du covoiturage pour se rendre au Noirmont. Il est également possible de s’y rendre [en train.][2]
@@ -41,9 +41,6 @@ Cet événement est soumis à inscription
 cdrom est une **société suisse basée au Noirmont**
 (Région des Franches-Montagnes).
 Depuis 2009, le centre de données cdrom s&#8217;adresse à différentes entreprises pour **héberger leurs données numériques.**
-
-[fancybox title=&#8221;&#8221; shadow=&#8221;2&#8243; line=&#8221;left&#8221; button=&#8221;&#8221; bggradstart=&#8221;#fafafa&#8221; bggradend=&#8221;#FFFFFF&#8221;]  
-[separator marginTop=&#8221;5&#8243;]
 
 <ul class="cbp-l-project-details-list">
   <li>
