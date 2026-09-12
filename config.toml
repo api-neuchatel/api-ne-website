@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://api-ne.ch/'
 languageCode = 'en-us'
 title = 'API Neuchâtel'
 theme = 'ananke'
