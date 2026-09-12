@@ -1,7 +1,7 @@
 ---
 title: Django Brachetto
 active: false
-role: President
+role: Ex Président
 image: /members/images/django.jpg
 social:
 email: django.brachetto@gmail.com

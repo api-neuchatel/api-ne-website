@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <article class="center cf pv5 ph3 ph4-ns mw8 nested-copy-line-height">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+      <div class="flex justify-center">
+        {{ with .Params.image }}
+          <img src="{{ . }}" alt="{{ $.Title }}" class="db br-100 grayscale" style="width: 320px; height: 320px; max-width: 100%; object-fit: cover;" loading="lazy" />
+        {{ end }}
+      </div>
+      <div class="nested-links lh-copy">
+        <h1 class="f2 near-black mt0 mb2">{{ .Title }}</h1>
+        {{ with .Params.role }}
+          <p class="f4 mt0 mb4">{{ . }}</p>
+        {{ end }}
+        {{ .Content }}
+        <div class="mt4">
+          {{ with .Params.linkedin }}
+            <a href="{{ . }}" class="link dim mr3" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          {{ end }}
+          {{ with .Params.github }}
+            <a href="{{ . }}" class="link dim mr3" target="_blank" rel="noopener noreferrer">GitHub</a>
+          {{ end }}
+          {{ with .Params.email }}
+            <a href="mailto:{{ . }}" class="link dim">Email</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </article>
+{{ end }}

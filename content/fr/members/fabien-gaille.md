@@ -1,7 +1,7 @@
 ---
 title: Fabien Gaille
 active: false
-Role: Vice-President
+Role: Ex Vice-Président
 image: /members/images/fabien.jpg
 social:
 email: fabien.gaille@gmail.com

@@ -1,7 +1,7 @@
 ---
 title: Mickaël Morel
 active: false
-role: Communication
+role: Ex Communication
 image: /members/images/mickael.jpg
 social:
 email: mmo@pentagon-system.ch

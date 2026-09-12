@@ -5,13 +5,18 @@ role: Organizer
 image: /members/images/oleg.jpg
 social:
 email:
-linkedin: https://www.linkedin.com/in/onenashev/?originalSubdomain=ch
+linkedin: https://www.linkedin.com/in/onenashev/
+github: https://github.com/oleg-nenashev
 ---
 
-Oleg is a community builder, core maintainer and board member in the Jenkins community.
-He is also a TOC member and community ambassador in the Continuous Delivery Foundation.
-Oleg is based in Neuchâtel, Switzerland.
-Since 2008 he has worked in the areas of automation infrastructure and frameworks for mixed software-hardware projects.
-Oleg writes code, maintains Jenkins, mentors contributors, and organizes community events and Google Summer of Code in the project.
-He is a big fan of open hardware and embedded.
-He has a PhD degree in electronics design and volunteers in the Free and Open Source Silicon Foundation.
+Ingénieur spécialisé dans les outils pour développeurs et animateur de communautés.
+Je suis passionné par la durabilité, l'open source, l'open hardware et les technologies cloud-native.
+J'ai débuté mon parcours dans l'open source avec Jenkins en 2012, projet pour lequel je suis devenu mainteneur principal et ai siégé au comité de gouvernance pendant quatre ans.
+Je suis Testcontainers Champion, mainteneur de modules WireMock.
+In the realm of foundations, I served as Chair of the CDF Technical Oversight Committee, board representative for the CDF and the OpenAPI Initiative, and a member of the Kotlin Ecosystem Committee.
+
+
+En Suisse, j'ai cofondé l'association, Cloud Native Suisse Romande et co-organisé le Meetup Jenkins, Silicon Chalet ainsi que la KCD Suisse Romande.
+I participate in CH Open, JUGch, Wikimedia CH, and other tech communities in the country.
+
+#OpenSource #Durabilité #Communautés #Randonnée
