@@ -6,8 +6,6 @@ date: 2022-12-10T12:00:00+00:00
 time: 18h00
 ---
 
-> **EVENEMENT ANNULE POUR CAUSE DE MALADIE**
-
 ## Abstract
 
 ### Français – (English below)
