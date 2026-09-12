@@ -1,0 +1,25 @@
+{
+  "name": "API Neuchatel site",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "version": "0.110.0",
+      "extended": "true"
+    }
+  },
+  "forwardPorts": [1313],
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo server",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "git submodule update --init --recursive",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "budparr.language-hugo"
+      ]
+    }
+  }
+}
