@@ -17,7 +17,7 @@ Enfin, votre statut de membre de l’association vous donne également le droit 
 
 [Devenir membre](/devenir-membre/)
 
- <img decoding="async" loading="lazy" class="alignnone size-full wp-image-2096" src="https://api-ne.ch/wp-content/uploads/2016/06/logo-api-standard-PNG.png" alt="logo-api-standard-PNG" width="800" height="152" />
+ <img decoding="async" loading="lazy" class="alignnone size-full wp-image-2096" src="/images/logo/logo-wide.png" alt="logo-api-standard-PNG" width="800" height="152" />
 
 <ul class="cbp-l-project-details-list">
   <li>

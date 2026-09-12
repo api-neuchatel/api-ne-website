@@ -31,7 +31,7 @@ Celle-ci se déroulera le jeudi **15 juin 2017**, dès 19:15, dans l’Aula du 
 
 **<span style="color: #ff0000;"><em>Inscriptions :  </em></span>**<span style="color: #ff0000;"><em>aucune inscription n'est nécessaire </em></span>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2711" src="https://api-ne.ch/wp-content/uploads/2017/05/4063ae5a-aa4c-4353-8ca5-3b499f2b079d.png" alt="4063ae5a-aa4c-4353-8ca5-3b499f2b079d" width="905" height="334" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2711" src="/images/4063ae5a-aa4c-4353-8ca5-3b499f2b079d.png" alt="4063ae5a-aa4c-4353-8ca5-3b499f2b079d" width="905" height="334" />
 
 <ul class="cbp-l-project-details-list">
   <li>

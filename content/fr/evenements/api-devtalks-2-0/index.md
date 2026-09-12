@@ -82,7 +82,7 @@ Le service Adobe I/O Runtime [1] (basé sur Apache OpenWhisk [2]) sur lequel ces
 
 ### Pascal Meyrat
 
-![Pascal Meyrat](https://api-ne.ch/wp-content/uploads/2019/03/pascal_meyrat.jpeg)
+![Pascal Meyrat](pascal_meyrat.jpeg)
 Agile advocate & COO<br /> <a href="https://www.softcom.pro/">Softcom Technologies SA</a>
 
   </p>
@@ -99,7 +99,7 @@ Agile advocate & COO<br /> <a href="https://www.softcom.pro/">Softcom Technologi
 
 ### Niels Weber
 
-![Niels Weber](https://api-ne.ch/wp-content/uploads/2019/03/niels_weber.jpg)
+![Niels Weber](/images/niels_weber.jpg)
 Psychologue spécialisé en hyperconnectivité<br /> <a href="http://www.nielsweber.ch/" target="_blank" rel="noopener">Niels Weber</a>
 
   </p>
@@ -116,7 +116,7 @@ Psychologue spécialisé en hyperconnectivité<br /> <a href="http://www.nielswe
 
 ### Nicolas Richoz
 
-![Nicolas Richoz](https://api-ne.ch/wp-content/uploads/2019/03/nicolas_richoz.jpeg)
+![Nicolas Richoz](/images/nicolas_richoz.jpeg)
 Project Manager<br /> <a href="https://www.softcom.pro/">Softcom Technologies SA</a>
 
   </p>
@@ -133,7 +133,7 @@ Project Manager<br /> <a href="https://www.softcom.pro/">Softcom Technologies SA
 
 ### Bertrand Delacrétaz
 
-![Bertrand Delacrétaz](https://api-ne.ch/wp-content/uploads/2019/03/bertrand_delacretaz.jpg)
+![Bertrand Delacrétaz](bertrand_delacretaz.jpg)
 Principal Scientist<br /> <a href="https://www.adobe.com/ch_fr/#" target="_blank" rel="noopener">Adobe Systems</a>
 
   </p>
@@ -145,11 +145,11 @@ Principal Scientist<br /> <a href="https://www.adobe.com/ch_fr/#" target="_blank
   </p>
 </div>
 
-<img decoding="async" loading="lazy" class="wp-image-3044 size-full alignnone" src="https://api-ne.ch/wp-content/uploads/2019/03/logo-api-standard-PNG-devtalks-2.png" width="706" height="152" />
+<img decoding="async" loading="lazy" class="wp-image-3044 size-full alignnone" src="/images/logo/logo-api-standard-PNG-devtalks-2.png" width="706" height="152" />
 
-  <img decoding="async" loading="lazy" class="wp-image-3086 size-full aligncenter" src="https://api-ne.ch/wp-content/uploads/2019/03/GES-MAN3-MOD001-logo-couleur-cmyk.jpg" alt="GES-MAN3-MOD001-logo couleur cmyk" width="712" height="115" />
+  <img decoding="async" loading="lazy" class="wp-image-3086 size-full aligncenter" src="/images/GES-MAN3-MOD001-logo-couleur-cmyk-e1561036634965.jpg" alt="GES-MAN3-MOD001-logo couleur cmyk" width="712" height="115" />
 
-<img decoding="async" loading="lazy" class="wp-image-3085 size-full alignnone aligncenter" src="https://api-ne.ch/wp-content/uploads/2019/03/HESSOfrencouleur.gif" alt="HESSOfrencouleur" width="125" height="76" />
+<img decoding="async" loading="lazy" class="wp-image-3085 size-full alignnone aligncenter" src="/images/HESSOfrencouleur.gif" alt="HESSOfrencouleur" width="125" height="76" />
 
 <ul class="cbp-l-project-details-list">
   <li>
@@ -174,8 +174,8 @@ Principal Scientist<br /> <a href="https://www.adobe.com/ch_fr/#" target="_blank
 
 ## Photos du dernier DevTalks
 
-![](https://api-ne.ch/wp-content/uploads/2019/03/IMG\_1729.jpg)
+![](/images/IMG_1729.jpg)
 
-![](https://api-ne.ch/wp-content/uploads/2019/03/IMG\_0747.jpg)
+![](/images/IMG_0747.jpg)
 
-![](https://api-ne.ch/wp-content/uploads/2019/03/IMG\_0756.jpg)
+![](/images/IMG_0756.jpg)

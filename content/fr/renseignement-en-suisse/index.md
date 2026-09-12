@@ -31,7 +31,7 @@ Celle-ci se déroulera le mardi **23 mai 2017**, dès 19:15, dans l’Aula du
 
 **<span style="color: #ff0000;"><em>Inscriptions :  </em></span>**<span style="color: #ff0000;"><em>aucune inscription n'est nécessaire </em></span>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2673" src="https://api-ne.ch/wp-content/uploads/2017/04/PNE_logo.png" alt="PNE_logo" width="500" height="185" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2673" src="/images/PNE_logo.png" alt="PNE_logo" width="500" height="185" />
 
 <ul class="cbp-l-project-details-list">
   <li>

@@ -7,7 +7,7 @@ slide_template:
   - default
 ---
 
-<img decoding="async" loading="lazy" class="alignnone size-medium wp-image-2167" src="https://api-ne.ch/wp-content/uploads/2016/06/logo-api-standard-PNG-1-300x57.png" alt="logo-api-standard-PNG" width="300" height="57" />
+<img decoding="async" loading="lazy" class="alignnone size-medium wp-image-2167" src="/images/logo/logo-wide.png" alt="logo-api-standard-PNG" width="300" height="57" />
 
 ##
 
@@ -25,7 +25,7 @@ La contribution de l’association dans ce domaine peut prendre plusieurs formes
 • Vous mettre à disposition des structures, des services ainsi que des conseils.
 • Vous permettre de bénéficier de nos connaissances et de notre expérience.
 
-![](https://api-ne.ch/wp-content/uploads/2016/06/photodune-10737799-presentation-of-business-development-concept-m-1.png)
+![](/images/photodune-10737799-presentation-of-business-development-concept-m.jpg)
 
  Soif de **connaissances?**
 

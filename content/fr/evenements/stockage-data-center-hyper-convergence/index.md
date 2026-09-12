@@ -27,7 +27,7 @@ Des dernières technologies de stockage aux implémentations de Data Center les 
 
 La présentation est ouverte à tout le monde et l’entrée est libre.
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2679" src="https://api-ne.ch/wp-content/uploads/2017/04/dell-inginia.jpg" alt="dell-inginia" width="500" height="185" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2679" src="/images/dell-inginia.jpg" alt="dell-inginia" width="500" height="185" />
 
 <ul class="cbp-l-project-details-list">
   <li>

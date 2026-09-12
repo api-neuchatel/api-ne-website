@@ -32,9 +32,9 @@ Cet événement est soumis à inscription
  Il est également obligatoire d'être membre actif de l'association et de se munir
  d'une pièce d'identité pour la visite.
 
-<a href="http://www.cdrom.ch/" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-2526 aligncenter" src="https://api-ne.ch/wp-content/uploads/2016/10/logo_cdRom.jpg" alt="logo_cdrom" width="313" height="77" /></a>
+<a href="http://www.cdrom.ch/" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-2526 aligncenter" src="logo_cdRom.jpg" alt="logo_cdrom" width="313" height="77" /></a>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2600" src="https://api-ne.ch/wp-content/uploads/2016/10/3101.jpg" alt="3101" width="630" height="286" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2600" src="3101.jpg" alt="3101" width="630" height="286" />
 
 ## Details
 

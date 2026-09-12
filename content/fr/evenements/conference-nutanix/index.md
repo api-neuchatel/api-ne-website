@@ -31,7 +31,7 @@ A l’issue de cette présentation, nous vous invitons cordialement à partager 
 
 **Formulaire :** Inscription événement
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2734" src="https://api-ne.ch/wp-content/uploads/2016/11/Nutanix-1.png" alt="Nutanix" width="1920" height="695" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2734" src="/images/Nutanix-1.png" alt="Nutanix" width="1920" height="695" />
 
 <ul class="cbp-l-project-details-list">
   <li>

@@ -16,7 +16,7 @@ En mettant en relation nos membres et en leur permettant de partager leur savoir
 
 Les séances et activités organisées par l’association, abordant, tour à tour, l’ensemble des spécialités liées aux métiers de l’informatique, sont une invitation à apprendre, débattre et échanger tout en enrichissant son réseau professionnel. Nos membres, mais également tout professionnel de l’informatique intéressé, peuvent ainsi profiter d’un riche panel d’offres, mêlant élocutions de divers intervenants (étudiants, professionnels, firmes et partenaires), discussions thématiques et bien d’autres.
 
-![](https://api-ne.ch/wp-content/uploads/2016/06/photodune-12926810-exchange-of-ideas-two-businessmen-are-talking-m.png)
+![](/images/photodune-12926810-exchange-of-ideas-two-businessmen-are-talking-m.jpg)
 
  Soif de **connaissances?**
 

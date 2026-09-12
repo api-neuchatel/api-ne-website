@@ -51,7 +51,7 @@ _Pour les étudiants, nous vous demandons d'envoyer votre attestation d'études 
 
 Vous n'êtes pas encore membre? <a style="color: white;" href="https://api-ne.ch/devenir-membre/" target="_blank" rel="noopener">Inscrivez-vous ici!</a>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2779" src="https://api-ne.ch/wp-content/uploads/2017/12/download.png" alt="download" width="397" height="127" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2779" src="logo-kaspersky.png" alt="download" width="397" height="127" />
 
 <ul class="cbp-l-project-details-list">
   <li>

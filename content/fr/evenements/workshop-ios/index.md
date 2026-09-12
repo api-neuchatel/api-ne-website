@@ -54,7 +54,7 @@ Cette inscription n’est plus disponible.
 
 Vous n'êtes pas encore membre? <a style="color: white;" href="https://api-ne.ch/devenir-membre/" target="_blank" rel="noopener">Inscrivez-vous ici!</a>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-3008" src="https://api-ne.ch/wp-content/uploads/2018/10/pindex.png" alt="pindex" width="450" height="150" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-3008" src="/images/PinDex.png" alt="pindex" width="450" height="150" />
 
 <ul class="cbp-l-project-details-list">
   <li>

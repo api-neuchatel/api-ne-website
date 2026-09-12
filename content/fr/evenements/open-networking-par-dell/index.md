@@ -24,7 +24,7 @@ Celle-ci se déroulera le jeudi **8 décembre 2016**, dès 19:15, dans l’Aul
 
 **<span style="color: #ff0000;"><em>Inscriptions :  </em></span>**<span style="color: #ff0000;"><em>aucune inscription n'est nécessaire </em></span>
 
-<img decoding="async" loading="lazy" class="alignnone wp-image-2640 size-full" src="https://api-ne.ch/wp-content/uploads/2016/11/dell_2016_logo_before_after_technologies.png" width="569" height="200" />
+<img decoding="async" loading="lazy" class="alignnone wp-image-2640 size-full" src="/images/dell_2016_logo_before_after_technologies.png" width="569" height="200" />
 
 <ul class="cbp-l-project-details-list">
   <li>

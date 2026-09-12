@@ -99,7 +99,7 @@ Dans cette session, nous allons présenter comment nous avons construit cette pl
 
 ### Jérémy Colombo
 
-![Jérémy Colombo](https://api-ne.ch/wp-content/uploads/2018/08/speaker-1.jpg)
+![Jérémy Colombo](speaker-1.jpg)
 Co-fondateur du projet<br /> <a href="https://www.pindex.ch/" target="_blank" rel="noopener">Pindex</a>
 
   </p>
@@ -116,7 +116,7 @@ Co-fondateur du projet<br /> <a href="https://www.pindex.ch/" target="_blank" re
 
 ### Joseph Ferry
 
-![Joseph Ferry](https://api-ne.ch/wp-content/uploads/2018/08/speaker-2.jpg)
+![Joseph Ferry](speaker-2.jpg)
 Software Department Manager<br /> <a href="https://www.swisstiming.com/" target="_blank" rel="noopener">Swiss Timing</a>
 
   </p>
@@ -133,7 +133,7 @@ Software Department Manager<br /> <a href="https://www.swisstiming.com/" target=
 
 ### Florian Vessaz
 
-![Florian Vessaz](https://api-ne.ch/wp-content/uploads/2018/08/speaker-3.jpg)
+![Florian Vessaz](speaker-3.jpg)
 Full Stack Engineer<br /> <a href="https://bity.com/" target="_blank" rel="noopener">Bity</a>
 
   </p>
@@ -156,7 +156,7 @@ Full Stack Engineer<br /> <a href="https://bity.com/" target="_blank" rel="noope
 
 ### Sedat Adiyaman
 
-![Sedat Adiyaman](https://api-ne.ch/wp-content/uploads/2018/08/speaker-4.jpg)
+![Sedat Adiyaman](speaker-4.jpg)
 CEO<br /> <a href="http://think2make.ch/" target="_blank" rel="noopener">think2make.ch</a><br /> <a href="https://coworking-neuchatel.ch/" target="_blank" rel="noopener">coworking-neuchatel.ch</a>
 
   </p>
@@ -173,7 +173,7 @@ CEO<br /> <a href="http://think2make.ch/" target="_blank" rel="noopener">think2m
 
 ### Sammy Ramareddy
 
-![Sammy Ramareddy](https://api-ne.ch/wp-content/uploads/2018/08/speaker-5.jpg)
+![Sammy Ramareddy](speaker-5.jpg)
 Senior Technical Product Owner<br /> <a href="https://www.swisscom.ch/" target="_blank" rel="noopener">Swisscom Data, Analytics & AI Group</a>
 
   </p>
@@ -200,7 +200,7 @@ Senior Technical Product Owner<br /> <a href="https://www.swisscom.ch/" target="
  Cet événement est bien évidemment gratuit et ouvert à tous, mais pour des questions d'organisation, nécessite une inscription!
 **N'oubliez pas d'en parler autour de vous!**
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2096" src="https://api-ne.ch/wp-content/uploads/2018/08/logo-api-standard-PNG-devtalks.png" alt="logo-api-standard-PNG" width="800" height="152" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2096" src="/images/logo/api-devtalks-first.png" alt="logo-api-standard-PNG" width="800" height="152" />
 
 <ul class="cbp-l-project-details-list">
   <li>

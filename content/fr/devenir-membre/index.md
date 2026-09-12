@@ -17,7 +17,7 @@ Le statut de  **membre** , me donne la **possibilité **:
   * De bénéficier d’une entrée libre à toutes les séances et les activités misent sur pieds par l’association – API durant l’année.
   * De bénéficier d’un accès à la plateforme web API, me permettant ainsi d’échanger avec d’autres professionnels, étudiants et passionnés en informatique, par l’intermédiaire des outils à disposition et de me tenir au courant de tout ce qui se passe au sein de l’association – API (événements à venir, FAQ, news, etc.)
 
-![](https://api-ne.ch/wp-content/uploads/2016/06/photodune-12926810-exchange-of-ideas-two-businessmen-are-talking-m.png)
+![](/images/photodune-12926810-exchange-of-ideas-two-businessmen-are-talking-m.jpg)
 
 **Formulaire :** Inscription des membres
 

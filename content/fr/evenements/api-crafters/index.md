@@ -42,7 +42,7 @@ Pour en savoir plus sur le sujet : <https://linuxcontainers.org/lxd/introductio
 
 **Formulaire :** Inscription événement - API#Crafters
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-3130" src="https://api-ne.ch/wp-content/uploads/2019/05/canonical-logo1-1.png" alt="canonical-logo1" width="540" height="245" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-3130" src="canonical-logo1-1.png" alt="canonical-logo1" width="540" height="245" />
 
 <ul class="cbp-l-project-details-list">
   <li>

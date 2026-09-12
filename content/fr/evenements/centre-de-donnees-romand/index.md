@@ -27,9 +27,9 @@ En ce qui concerne la visite, les inscriptions sont ouvertes jusqu’au **26 oct
 
 <span style="color: #ff0000;"><em>Inscriptions fermées</em></span>
 
-<a href="http://www.cdrom.ch/" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-2526 aligncenter" src="https://api-ne.ch/wp-content/uploads/2016/10/logo_cdRom.jpg" alt="logo_cdrom" width="313" height="77" /></a>
+<a href="http://www.cdrom.ch/" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-2526 aligncenter" src="logo_cdRom.jpg" alt="logo_cdrom" width="313" height="77" /></a>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2600" src="https://api-ne.ch/wp-content/uploads/2016/10/3101.jpg" alt="3101" width="630" height="286" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2600" src="3101.jpg" alt="3101" width="630" height="286" />
 
 cdrom est une **société suisse basée au Noirmont** (Région des Franches-Montagnes). Depuis 2009, le centre de données cdrom s'adresse à différentes entreprises pour **héberger leurs données numériques.**
 

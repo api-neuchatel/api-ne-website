@@ -49,7 +49,7 @@ Une fois n'est pas coutume, lors de cette soirée, il vous est demandé d'amener
 
 Vous n'êtes pas encore membre? <a style="color: white;" href="https://api-ne.ch/devenir-membre/" target="_blank" rel="noopener">Inscrivez-vous ici!</a>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-3130" src="https://api-ne.ch/wp-content/uploads/2016/02/banner.jpg" alt="API-Crafters" width="540" height="245" />
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-3130" src="banner.jpg" alt="API-Crafters" width="540" height="245" />
 
 <ul class="cbp-l-project-details-list">
   <li>
