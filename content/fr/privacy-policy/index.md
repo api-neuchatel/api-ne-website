@@ -4,7 +4,6 @@ author: admin
 type: page
 date: 2023-05-29T10:08:33+00:00
 draft: true
-
 ---
 ## Who we are {.wp-block-heading}
 
@@ -12,7 +11,7 @@ draft: true
 
 ## Comments {.wp-block-heading}
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.
+<strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor's IP address and browser user agent string to help spam detection.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 

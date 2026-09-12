@@ -11,7 +11,6 @@ event:
   time: 18h00
 ---
 
-
 Nouvelle édition de la soirée DevTalks. Cette soirée sera à nouveau constituée d’un mélange de compétences et d’entreprises de la région.
 
 Au menu de cette soirée, nous aurons le privilège d’écouter Lionel Rieder qui nous présentera comment son entreprise accompagne des projets afin de concevoir les interfaces utilisateur de demain. Puis, Fabio Bonfiglio, acteur régional incontournable dans les technologies de la blockchain nous exposera le projet NEDAO. Stéphane Malta e Sousa nous présentera ensuite le travail particulier du SITN et notamment les coulisses du Géoportail du Système d’Information du Territoire Neuchâtelois.

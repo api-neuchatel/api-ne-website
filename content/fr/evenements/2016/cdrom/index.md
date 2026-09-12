@@ -15,7 +15,7 @@ Hébergeant des infrastructures du domaine bancaire, des assurances ou encore de
 CDROM propose un panel de prestations régies par le droit suisse et garantissant une confidentialité absolue à leurs clients.
 
 Si vous n’êtes pas membre de l’association, merci de vous [enregistrer][1] avant de vous inscrire à l’évènement. Nous vous rappelons également que les places sont limitées!
-**La présentation d&#8217;une pièce d&#8217;identité sera exigée.**
+**La présentation d'une pièce d'identité sera exigée.**
 
 Selon le nombre de personnes inscrites, nous organiserons du covoiturage pour se rendre au Noirmont. Il est également possible de s’y rendre [en train.][2]
 
@@ -34,17 +34,17 @@ Cet événement est soumis à inscription
 
 <a href="http://www.cdrom.ch/" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-2526 aligncenter" src="https://api-ne.ch/wp-content/uploads/2016/10/logo_cdRom.jpg" alt="logo_cdrom" width="313" height="77" /></a>
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2600" src="https://api-ne.ch/wp-content/uploads/2016/10/3101.jpg" alt="3101" width="630" height="286" /> 
+<img decoding="async" loading="lazy" class="alignnone size-full wp-image-2600" src="https://api-ne.ch/wp-content/uploads/2016/10/3101.jpg" alt="3101" width="630" height="286" />
 
 ## Details
 
 cdrom est une **société suisse basée au Noirmont**
 (Région des Franches-Montagnes).
-Depuis 2009, le centre de données cdrom s&#8217;adresse à différentes entreprises pour **héberger leurs données numériques.**
+Depuis 2009, le centre de données cdrom s'adresse à différentes entreprises pour **héberger leurs données numériques.**
 
 <ul class="cbp-l-project-details-list">
   <li>
-    <strong>Événement</strong>Visite &#8211; (Sur Inscription)
+    <strong>Événement</strong>Visite - (Sur Inscription)
   </li>
   <li>
     <strong>Où</strong>Centre de données Romand SA

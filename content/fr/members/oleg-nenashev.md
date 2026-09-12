@@ -2,12 +2,12 @@
 title: Oleg Nenashev
 role: Organizer
 social:
-  email: 
-  linkedin: https://www.linkedin.com/in/onenashev/?originalSubdomain=ch
+email:
+linkedin: https://www.linkedin.com/in/onenashev/?originalSubdomain=ch
 ---
 
-Oleg is a community builder, core maintainer and board member in the Jenkins community. 
-He is also a TOC member and community ambassador in the Continuous Delivery Foundation. 
+Oleg is a community builder, core maintainer and board member in the Jenkins community.
+He is also a TOC member and community ambassador in the Continuous Delivery Foundation.
 Oleg is based in Neuchâtel, Switzerland.
 Since 2008 he has worked in the areas of automation infrastructure and frameworks for mixed software-hardware projects.
 Oleg writes code, maintains Jenkins, mentors contributors, and organizes community events and Google Summer of Code in the project.

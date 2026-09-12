@@ -59,4 +59,3 @@ Depuis plusieurs années, Avalia Systems développe une plate-forme de software 
 Xavier est passionné par le code depuis son enfance, il aime apprendre continuellement et partager sa passion avec la communauté. C’est pour cela qu’il lead le GenevaJUG, Devoxx4Kids à Genève et Paris et qu’il porte un gilet rouge à Devoxx France. Après avoir été successivement développeur, chef de projet furtif, directeur technique, puis de nouveau dévelopeur notamment en banque, il est maintenant Product Manager chez SonarSource.
 
 Apprendre à coder à des enfants ? Mais quelle idée folle ! Nous verrons ensemble pourquoi cette idée est pertinente, comment on s’y prend pour apprendre des bases de programmation à des enfants entre 4 et 10 et tout ce que cela pourrait vous apporter si vous vous y mettez !
-

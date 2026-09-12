@@ -37,5 +37,5 @@ We will have an interactive meetup and a live conversation, with a focus on what
 
 Oleg is an open source software and open hardware advocate.
 He is a TOC chair and community ambassador in the Continuous Delivery Foundation.
-Oleg is a core maintainer and board member in Jenkins where he writes code, mentors contributors, and organizes community events and Google Summer of Code in the project. 
+Oleg is a core maintainer and board member in Jenkins where he writes code, mentors contributors, and organizes community events and Google Summer of Code in the project.
 Oleg has a PhD degree in hardware design and volunteers in the Free and Open Source Silicon Foundation.
