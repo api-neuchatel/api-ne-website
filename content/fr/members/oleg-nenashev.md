@@ -2,6 +2,7 @@
 title: Oleg Nenashev
 active: true
 role: Organizer
+image: /members/images/oleg.jpg
 social:
 email:
 linkedin: https://www.linkedin.com/in/onenashev/?originalSubdomain=ch

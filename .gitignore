@@ -3,3 +3,5 @@ resources
 .vscode/settings.json
 public
 .idea
+
+.DS_Store

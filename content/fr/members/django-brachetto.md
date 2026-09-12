@@ -2,6 +2,7 @@
 title: Django Brachetto
 active: false
 role: President
+image: /members/images/django.jpg
 social:
 email: django.brachetto@gmail.com
 linkedin: https://www.linkedin.com/in/django-brachetto-50351695

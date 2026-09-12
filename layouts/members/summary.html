@@ -1,0 +1,24 @@
+<article class="bg-white nested-copy-line-height h-100">
+  <div class="pa4 gray overflow-hidden h-100">
+    {{ with .Params.image }}
+      <img src="{{ . }}" alt="{{ $.Title }}" class="db center mb3 br-100 grayscale" loading="lazy" />
+    {{ end }}
+    <h3 class="f3 near-black mt0 mb2">
+      <a href="{{ .RelPermalink }}" class="link black dim">{{ .Title }}</a>
+    </h3>
+    {{ with .Params.role }}
+      <p class="f5 mt0 mb3">{{ . }}</p>
+    {{ end }}
+    <div class="nested-links f5 lh-copy">
+      {{ .Summary }}
+    </div>
+    <div class="mt3">
+      {{ with .Params.linkedin }}
+        <a href="{{ . }}" class="link dim mr3" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      {{ end }}
+      {{ with .Params.email }}
+        <a href="mailto:{{ . }}" class="link dim">Email</a>
+      {{ end }}
+    </div>
+  </div>
+</article>
