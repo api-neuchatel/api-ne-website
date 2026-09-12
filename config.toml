@@ -60,14 +60,6 @@ url = "https://twitter.com/API_Neuchatel"
   pageRef = '/manifeste'
   weight = 20
 [[menu.main]]
-  name = 'Evenements'
-  pageRef = '/evenements'
-  weight = 30
-[[menu.main]]
-  name = 'Communauté'
-  pageRef = '/community'
-  weight = 40
-[[menu.main]]
   name = 'Contacts'
   pageRef = '/contact'
   weight = 50
