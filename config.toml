@@ -9,6 +9,13 @@ Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[module]
+[[module.imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = 'github.com/gohugo-ananke/ananke/v2'
+
 [languages]
   [languages.fr]
     title = "API Neuchâtel"
