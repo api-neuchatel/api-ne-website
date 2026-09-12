@@ -36,7 +36,11 @@ url = "https://www.linkedin.com/company/api-neuchatel"
 
 [[params.ananke_socials]]
 name = "youtube"
-url = "https://www.youtube.com/@associationapi1442"
+url = "https://www.youtube.com/@api-ne"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/api-neuchatel/"
 
 [[params.ananke_socials]]
 name = "facebook"
