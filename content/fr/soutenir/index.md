@@ -8,6 +8,9 @@ slide_template:
 ---
 
 ##
+
+> **Information importante :** l’association est actuellement en cours de reprise. Les adhésions et renouvellements ne sont pas possibles pour le moment. Les anciennes coordonnées bancaires, y compris l’ancien IBAN, ne sont plus valables : merci de ne faire aucun versement sur ce compte.
+
 L’API participe activement, en collaboration avec les différentes entités de formation de la région, à la promotion de la formation en informatique.
 
 Nous mettons un point d’honneur à soutenir les actuels étudiants en informatique. Nous leur donnons la possibilité de préparer leur future carrière professionnelle par l’intermédiaire de notre association, en leur donnant les moyens de participer à la vie de celle-ci, aux séances et diverses activités que nous organisons, tout en augmentant leur visibilité auprès de professionnels partageant une passion commune pour les métiers de l’informatique.
@@ -18,6 +21,4 @@ Nous mettons un point d’honneur à soutenir les actuels étudiants en informat
 
  Soif de **connaissances?**
 
- Rejoignez l'association dès maintenant!
-
-[**Inscription**](https://api-ne.ch/devenir-membre/)
+ Les inscriptions sont temporairement suspendues.

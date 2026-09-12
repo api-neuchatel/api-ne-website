@@ -5,6 +5,20 @@ type: page
 date: 2016-02-12T08:35:38+00:00
 blocks:
   - block: hero
+    heading: "Information importante"
+    subheading: >
+      L’association est actuellement en cours de reprise.
+    details: >
+       Nous recherchons des bénévoles souhaitant relancer la communauté technologique locale à Neuchâtel ! 
+       Contactez-nous si cela vous intéresse.
+       Les adhésions payantes et les renouvellements ne sont pas possibles pour le moment.
+       Les anciennes coordonnées bancaires, y compris l’ancien IBAN, ne sont plus valables : merci de ne faire aucun versement sur ce compte.
+    buttons:
+      - text: Contactez-nous
+        url: "./contact"
+        style: primary
+        size: large
+  - block: hero
     heading: "Les buts de l'association en bref..."
     buttons:
       - text: Notre manifeste
@@ -72,6 +86,7 @@ blocks:
 ---
 
 ![API Neuchâtel Logo](images/logo/logo-wide.png)
+
 
 **L’association des professionnels de l’informatique (API)**
 soutient le secteur informatique dans le canton de Neuchâtel et au-delà.

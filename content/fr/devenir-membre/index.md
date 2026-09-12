@@ -7,6 +7,8 @@ date: 2016-06-05T13:07:55+00:00
 
 ##
 
+> **Information importante :** l’association est actuellement en cours de reprise. Les adhésions et renouvellements ne sont pas possibles pour le moment. Les anciennes coordonnées bancaires, y compris l’ancien IBAN, ne sont plus valables : merci de ne faire aucun versement sur ce compte.
+
 Le statut de  **membre** , me donne la **possibilité **:
 
   * De participer à la vie de l’association - API :
@@ -19,18 +21,9 @@ Le statut de  **membre** , me donne la **possibilité **:
 
 ![](/images/photodune-12926810-exchange-of-ideas-two-businessmen-are-talking-m.jpg)
 
-**Formulaire :** Inscription des membres
+**Formulaire :** les inscriptions sont temporairement suspendues.
 
-## <span style="color: #ffffff;">Cotisation annuelle :</span>
 
-  * Membre individuel : Frs. 50 .-
-  * Membre donateur : Frs. Dès 100.-
-  * Etudiant, apprenti : **Gratuit**
+## Coordonnées bancaires
 
-## <span style="color: #ffffff;">Coordonnées bancaires de l'association</span>
-
-Banque Cantonale Neuchâteloise Place Pury 4, 2001 Neuchâtel
-**IBAN :** CH41 0076 6000 1026 6433 7
-**Au nom de :** Association des Professionnels de l'Informatique - Boucle de Cydalise 21, 2300 La Chaux-de-Fonds
-**N° de compte :** 1026.64.33.7 / **N° de clearing :** 766
-**N° BIC / SWIFT :** BCNNCH22
+Les anciennes coordonnées bancaires publiées sur cette page ne sont plus valables. Merci de ne pas utiliser l’ancien IBAN et de ne faire aucun versement jusqu’à nouvel avis.
