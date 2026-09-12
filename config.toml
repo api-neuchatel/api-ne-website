@@ -1,7 +1,7 @@
 baseURL = 'http://api-ne.ch/'
 languageCode = 'en-us'
 title = 'API Neuchâtel'
-theme = 'ananke'
+theme = 'github.com/gohugo-ananke/ananke/v2'
 
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"

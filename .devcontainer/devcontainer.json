@@ -2,6 +2,9 @@
   "name": "API Neuchatel site",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
+    "ghcr.io/devcontainers/features/go:1": {
+      "version": "1.27.0"
+    },
     "ghcr.io/devcontainers/features/hugo:1": {
       "version": "0.166.0",
       "extended": "true"
