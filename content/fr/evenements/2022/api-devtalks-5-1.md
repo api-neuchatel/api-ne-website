@@ -2,7 +2,7 @@
 title: "API DevTalks 5.1: Boosting your career with Open Source"
 type: event
 location: Hub Neuchatel, Rue des Terreaux 7
-date: 2022-12-10T12:00:00+00:00
+date: "2022-12-10T12:00:00Z"
 time: 18h00
 ---
 
