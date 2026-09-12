@@ -1,5 +1,6 @@
 ---
 title: Fabien Gaille
+active: false
 Role: Vice-President
 social:
 email: fabien.gaille@gmail.com

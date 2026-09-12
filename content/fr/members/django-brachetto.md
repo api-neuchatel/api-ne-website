@@ -1,5 +1,6 @@
 ---
 title: Django Brachetto
+active: false
 role: President
 social:
 email: django.brachetto@gmail.com

@@ -1,5 +1,6 @@
 ---
 title: Oleg Nenashev
+active: true
 role: Organizer
 social:
 email:

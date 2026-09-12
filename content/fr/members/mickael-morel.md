@@ -1,5 +1,6 @@
 ---
 title: Mickaël Morel
+active: false
 role: Communication
 social:
 email: mmo@pentagon-system.ch

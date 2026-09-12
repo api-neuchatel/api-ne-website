@@ -1,0 +1,38 @@
+{{ define "main" }}
+  {{ $activeMembers := where .Pages "Params.active" true }}
+  {{ $alumni := where .Pages "Params.active" false }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+
+   <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      <h2>Organisateurs</h2>
+    </section>
+
+
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range $activeMembers }}
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          {{ .Render "summary" }}
+        </div>
+      {{ end }}
+    </section>
+
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      <h2>Alumni</h2>
+      <p>
+        Merci aux organisateurs qui ont créé l’association et l’ont fait vivre jusqu’en 2022 !
+        Leur engagement a permis de lancer la communauté API Neuchâtel et de développer ses activités pendant ses premières années.
+      </p>
+    </section>
+
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range $alumni }}
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          {{ .Render "summary" }}
+        </div>
+      {{ end }}
+    </section>
+  </article>
+{{ end }}
